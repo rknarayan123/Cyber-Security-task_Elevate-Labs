@@ -1,8 +1,8 @@
 ## Today's task Perform a basic vulnerability Scan on Your PC.
 
-Objective: Use free tools to identify common vulnerabilities on your computer.
-Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentials.
-Deliverables: Vulnerability scan report with identified issues.
+### Objective: Use free tools to identify common vulnerabilities on your computer.
+### Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentials.
+### Deliverables: Vulnerability scan report with identified issues.
 
 Questions:
 - Install OpenVAS or Nessus Essentials.
