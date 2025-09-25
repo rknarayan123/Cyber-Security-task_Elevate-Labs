@@ -5,11 +5,11 @@ Tools: OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentia
 Deliverables: Vulnerability scan report with identified issues.
 
 Questions:
-1.Install OpenVAS or Nessus Essentials.
-2.Set up scan target as your local machine IP or localhost.
-3.Start a full vulnerability scan.
-4.Wait for scan to complete (may take 30-60 mins).
-5.Review the report for vulnerabilities and severity.
-6.Research simple fixes or mitigations for found vulnerabilities.
-7.Document the most critical vulnerabilities.
-8.Take screenshots of the scan results.
+  Install OpenVAS or Nessus Essentials.
+  Set up scan target as your local machine IP or localhost.
+  Start a full vulnerability scan.
+  Wait for scan to complete (may take 30-60 mins).
+  Review the report for vulnerabilities and severity.
+  Research simple fixes or mitigations for found vulnerabilities.
+  Document the most critical vulnerabilities.
+  Take screenshots of the scan results.
