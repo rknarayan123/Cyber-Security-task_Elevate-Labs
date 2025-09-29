@@ -13,3 +13,5 @@
 6. What are common firewall mistakes?
 7. How does a firewall improve network security?
 8. What is NAT in firewalls?
+
+## Outcome: Learnt what is firewall and how to setup a rules in firewall and a network traffic filtering.
