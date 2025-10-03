@@ -76,8 +76,3 @@ The goal of this task is to **spot and remove potentially harmful browser extens
 
 ---
 
-## 📎 Submission
-Once completed, push everything to your GitHub repository and submit the repo link here:  
-👉 [Submission Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
----
