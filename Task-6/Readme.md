@@ -73,6 +73,9 @@ The goal of this task was to **understand what makes a password strong** and tes
 7. What are passphrases?
 8. What are common mistakes in password creation?
 
+---
+
 ## 🚀 Conclusion  
 Strong passwords are not just about complexity — **length, unpredictability, and variety are key**. Combining good password practices with MFA and password managers is the best way to stay secure against cyber threats.  
+
 
