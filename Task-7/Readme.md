@@ -70,9 +70,6 @@ The goal of this task is to **spot and remove potentially harmful browser extens
 
 ---
 
-## 📂 Deliverables
-- Screenshots of suspicious extensions removed (if any)  
-- This `README.md` file documenting the process  
 
----
+
 
